@@ -11,6 +11,7 @@ Cross-platform crypto primitives for building apps for TON blockchain. Uses nati
 - 🚀 Promise-based API
 - 🏎 Built on top of Buffer (polifil required in browsers)
 - 🍰 No reimplemented crypto
+- 我去掉了react-native-fast-pbkdf2，因为这个库不兼容
 
 ## Imlemented
 
